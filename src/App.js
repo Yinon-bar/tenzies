@@ -1,7 +1,11 @@
 import "./App.css";
 
 function App() {
-  return <div className="App"></div>;
+  return (
+    <main className="App">
+      <h1>Tenzies</h1>
+    </main>
+  );
 }
 
 export default App;
